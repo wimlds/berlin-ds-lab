@@ -22,10 +22,10 @@ Have a look at the projects folder.
 
 The mentorship consists of ~8 weeks, roughly following this structure:
 
-Weeks 1-2: Kick-off, project introduction and ideation
-Weeks 3-4: exploratory data analysis, data cleaning, and baseline model
-Weeks 5-6: feature construction and improved model
-Weeks 7-8: Business presentation and technical handover
+* Weeks 1-2: Kick-off, project introduction and ideation
+* Weeks 3-4: exploratory data analysis, data cleaning, and baseline model
+* Weeks 5-6: feature construction and improved model
+* Weeks 7-8: Business presentation and technical handover
 
 
 ### Project introduction / ideation
@@ -57,9 +57,9 @@ Next, very important step: translation from business problem to data science
 	* Is there any other data set available somewhere that could make your data stronger? e.g. historic weather data, list of holidays, demographic / census data
 
 * Data cleaning
-       * You might decide to use only a subset of the data and, e.g. set aside some columns with sparse data for later use
-       * Decide how to fill in missing values
-       * Decide how to identify and handle outliers
+	* You might decide to use only a subset of the data and, e.g. set aside some columns with sparse data for later use
+	* Decide how to fill in missing values
+	* Decide how to identify and handle outliers
  
 * Define your evaluation procedure 
  
@@ -100,6 +100,7 @@ It is up to you who / how many people present
 ## Tools
 
 * Project management: agile tool of your choice, e.g. trello
+* Code collaboration: git
 * Data exploration / visualisation: whatever you like
 * Feature generation / modeling: python, R (decide within your team)
 
