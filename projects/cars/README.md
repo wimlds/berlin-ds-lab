@@ -45,11 +45,11 @@
 # Links
 
 * Project info
-    * [\link{ Albuquerque open data portal}](https://www.cabq.gov/abq-data/)
-    * [\link{Data dictionary}](http://data.cabq.gov/airquality/vehicleemissions/MetaData.pdf)
+    * [Albuquerque open data portal](https://www.cabq.gov/abq-data/)
+    * [Data dictionary](http://data.cabq.gov/airquality/vehicleemissions/MetaData.pdf)
 
 * Data
-    * [\link{Original}](http://data.cabq.gov/airquality/vehicleemissions/prioryears/)
+    * [Original](http://data.cabq.gov/airquality/vehicleemissions/prioryears/)
     * Cleaned (full data and sample): link by email
 
 *  Data preparation code: [cars_cleanup_and_sample.ipynb](cars_cleanup_and_sample.ipynb)
