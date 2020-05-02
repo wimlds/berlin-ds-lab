@@ -26,7 +26,7 @@
 * Remove cars that have been used for training emissions inspectors
 * Remove cars that were tested by inspectors with invalid ID (HELL666)
 * Make a random sample of 10% of cars (=keeping all inspections for each car in the sample)
-* Details + all code for cleanup in [cars_cleanup_and_sample.ipynb](cars_cleanup_and_sample.ipynb
+* Details + all code for cleanup in [cars_cleanup_and_sample.ipynb](cars_cleanup_and_sample.ipynb)
 
 -------------------------------
 
