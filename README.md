@@ -67,7 +67,7 @@ Next, very important step: translation from business problem to data science
 
 ### Feature construction and improved model
 
-* Experiment (in an organized manner) with:
+* Experiment (in an deliberate manner) with:
     * different features
     * different models
     * different data improvement techniques
