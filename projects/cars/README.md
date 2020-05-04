@@ -50,7 +50,6 @@
 
 * Data
     * [Original](http://data.cabq.gov/airquality/vehicleemissions/prioryears/)
-    * Cleaned (full data and sample): link by email
 
 *  Data preparation code: [cars_cleanup_and_sample.ipynb](cars_cleanup_and_sample.ipynb)
 
