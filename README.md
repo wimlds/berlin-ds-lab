@@ -99,7 +99,7 @@ It is up to you who / how many people present
 
 ## Tools
 
-* Project management: agile tool of your choice, e.g. trello
+* Project management: agile tool of your choice, e.g. trello, asana
 * Code collaboration: git
 * Data exploration / visualisation: whatever you like
 * Feature generation / modeling: python, R (decide within your team)
