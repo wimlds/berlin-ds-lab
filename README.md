@@ -74,7 +74,7 @@ Next, very important step: translation from business problem to data science
     
 ### Business presentation and technical handover
 
-* You will present your results to your "client". Train using the "right" language and not making it too technical.
+* You will present your results to your "client". Train using language your client can understand and not making it too technical.
 * Time to polish your code repository and write some documentation. We'll give feedback! 
 
 ## Weekly calls
