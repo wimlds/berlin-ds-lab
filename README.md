@@ -101,6 +101,19 @@ Next, very important step: translation from business problem to data science
 
 It is up to you who / how many people present
 
+## Project managment, team work, and feedback
+
+### Project management
+* To keep track of tasks, and update each other on progress
+
+### Code reviews
+* We encourage self-organised pair-programming and peer code-reviews and can advise you on how to get started
+* You will get code reviews from your mentors twice during the program
+
+### Feedback
+* Mid-way through the program you will be asked to give feedback, and to discuss your personal goals and progress in a 1-to-1 meeting with your mentor
+
+
 #### Client presentation
 
 * You are presenting to the person who gave you the brief (played by your mentors)
@@ -115,7 +128,7 @@ It is up to you who / how many people present
 ## Tools
 
 * Project management: agile tool of your choice, e.g. trello, asana
-* Code collaboration: git
+* Code collaboration: git, team viewer, vs code
 * Data exploration / visualisation: whatever you like
 * Feature generation / modeling: python, R (decide within your team)
 
