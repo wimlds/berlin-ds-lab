@@ -101,6 +101,17 @@ Next, very important step: translation from business problem to data science
 
 It is up to you who / how many people present
 
+#### Client presentation
+
+* You are presenting to the person who gave you the brief (played by your mentors)
+* Don't make it too technical!
+* Form: slides or similar
+
+#### Technical presentation
+
+* Show what your team did last week 
+* Free form: slides, R/jupyter notebooks, tableau, write on whiteboard - whatever works for you
+
 ## Project managment, team work, and feedback
 
 ### Project management
@@ -113,17 +124,6 @@ It is up to you who / how many people present
 ### Feedback
 * Mid-way through the program you will be asked to give feedback, and to discuss your personal goals and progress in a 1-to-1 meeting with your mentor
 
-
-#### Client presentation
-
-* You are presenting to the person who gave you the brief (played by your mentors)
-* Don't make it too technical!
-* Form: slides or similar
-
-#### Technical presentation
-
-* Show what your team did last week 
-* Free form: slides, R/jupyter notebooks, tableau, write on whiteboard - whatever works for you
 
 ## Tools
 
