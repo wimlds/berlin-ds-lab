@@ -14,7 +14,7 @@ Authors (in alphabetical order): Katharina Rasch, Noa Tamir
 
 ## Goal
 
-By the end of this lab you will have completed one data science project based on open data, simulating the work of a freelance data science team. 
+By the end of this lab you will have completed one data science project based on open data, simulating the work of a freelance data science team.
 
 You will gain familiarity with processes and practice the required communication skills at the core of a data scientist’s job. 
 
