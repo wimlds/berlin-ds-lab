@@ -20,7 +20,7 @@ You will gain familiarity with processes and practice the required communication
 
 You will get experience with weekly planning, receiving and following guidance by professional data science tech leads, team collaboration, communication to stakeholders, documentation for project handover, sharing your ongoing work and working together on not-perfect code and ideas, peer 2 peer code review.
 
-And, importantly, you will end up with a portfolio project (in the form of a presentation, blog post, github repository, or another format you prefer) your work on a real-world data problem, which you can use in job applications.  
+And, importantly, you will end up with a portfolio project (in the form of a presentation, blog post, github repository, or another format you prefer) showcasing your work on a real-world data problem, which you can use in job applications.  
 
 We are striving for a co-learning atmosphere. You will be part of a team of about four people, working together and learning from each other. Your mentors will check in with you weekly to make sure your team is on the right path.
 
