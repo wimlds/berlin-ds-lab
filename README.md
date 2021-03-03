@@ -20,6 +20,8 @@ You will gain familiarity with processes and practice the required communication
 
 You will get experience with weekly planning, receiving and following guidance by professional data science tech leads, team collaboration, communication to stakeholders, documentation for project handover, sharing your ongoing work and working together on not-perfect code and ideas, peer 2 peer code review.
 
+And, importantly, you will end up with a portfolio project (in the form of a presentation, blog post, github repository, or another format you prefer) showcasing your work on a real-world data problem, which you can use in job applications.  
+
 We are striving for a co-learning atmosphere. You will be part of a team of about four people, working together and learning from each other. Your mentors will check in with you weekly to make sure your team is on the right path.
 
 
@@ -34,13 +36,21 @@ Have a look at the projects folder.
 
 ## Timeline
 
-The mentorship consists of ~8 weeks, roughly following this structure:
+The mentorship consists of ~10 weeks, roughly following this structure:
 
 * Weeks 1-2: Kick-off, project introduction and ideation
-* Weeks 3-4: exploratory data analysis, data cleaning, and baseline model
-* Weeks 5-6: feature construction and improved model
-* Weeks 7-8: Business presentation and technical handover
+* Weeks 3-4: Exploratory data analysis, data cleaning
+* Weeks 5-6: Evaluation setup, baseline model
+* Weeks 7-8: Feature construction and improved model
+* Weeks 9-10: Business presentation and technical handover
 
+You should be available for two 1-hour long calls per week:
+* Call 1: team+advisors: present progress, discuss next steps (see details below)
+* Call 2: planning/sync with your teammates
+
+There will also be two additional calls aimed at personal growth/team dynamics:
+* Week 3-4: retrospective (focused on team collaboration) 
+* Week 5-6: individual feedback session with your advisor(s)
 
 ### Project introduction / ideation
 
@@ -61,7 +71,7 @@ Next, very important step: translation from business problem to data science
 * How do the business KPIs you defined translate to actual data science metrics?
 
 
-### Exploratory data analysis, data cleaning, and baseline model
+### Exploratory data analysis, data cleaning
 
 * Use whatever tools you like to explore the data. Find out, 
    	* Do you fully understand what each column means?
@@ -75,8 +85,10 @@ Next, very important step: translation from business problem to data science
 	* Decide how to fill in missing values
 	* Decide how to identify and handle outliers
  
-* Define your evaluation procedure 
- 
+### Evaluation setup, baseline model
+
+* Define your target variable
+* Set up your evaluation procedure and metrics 
 * Establish a baseline. This is the simplest model you can think of.
 
 ### Feature construction and improved model
@@ -89,46 +101,44 @@ Next, very important step: translation from business problem to data science
 ### Business presentation and technical handover
 
 * You will present your results to your "client". Train using language your client can understand and not making it too technical.
-* Time to polish your code repository and write some documentation. We'll give feedback! 
+* You will prepare a handover presentation to your client's in-house data scientists. Train writing clear technical communication, which is still business minded. This can be a well documented github repository, jupyter notebook, or a technical presentation.
+* Time to polish your code repository and write everything up nicely. We'll give feedback! 
+* These two steps are important to be able to show your portfolio project for future employers
 
-## Weekly calls
+## Weekly calls with advisors
 
-* First ~10 minutes: you present your work of the last week to us
+### Technical presentations
+
+* First ~10 minutes: one of you (not the same one every week!) presents your work of the previous week to us
 * Rest: open discussion and plan next week
     * We want you to come with your own ideas for next steps, we are just there to give you some guidance on them.
-    
-## Presentation format
-
-It is up to you who / how many people present
+* Presentation format:
+    * free-format: slides, R/jupyter notebooks, tableau, write on whiteboard -- whatever works for you
+    * but come prepared, showcase the most interesting parts of your work in the previous week
 
 #### Client presentation
 
 * You are presenting to the person who gave you the brief (played by your mentors)
-* Don't make it too technical!
-* Form: slides or similar
+* First week: two people present (individually, i.e. two different presentations)
+* Final week: other two people present
+* Presentation format:
+    * slides
+    * Don't make it too technical! 
 
-#### Technical presentation
-
-* Show what your team did last week 
-* Free form: slides, R/jupyter notebooks, tableau, write on whiteboard - whatever works for you
-
-## Project managment, team work, and feedback
+## Project managment, team work, tools
 
 ### Project management
 * To keep track of tasks, and update each other on progress
 
-### Code reviews
+### Team work
+
 * We encourage self-organised pair-programming and peer code-reviews and can advise you on how to get started
-* You will get code reviews from your mentors twice during the program
+* Retrospective to improve team collaboration
 
-### Feedback
-* Mid-way through the program you will be asked to give feedback, and to discuss your personal goals and progress in a 1-to-1 meeting with your mentor
-
-
-## Tools
+### Tools
 
 * Project management: agile tool of your choice, e.g. trello, asana
 * Code collaboration: git, team viewer, vs code
 * Data exploration / visualisation: whatever you like
-* Feature generation / modeling: python, R (decide within your team)
+* Coding: python, R (decide within your team)
 
