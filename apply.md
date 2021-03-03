@@ -16,7 +16,7 @@ In addition, you should expect 5-10 hours/week for working on the project (no fi
 
 ## Application process
 
-After reading the [program description](README.md), if you wish to take part, please email us at __Berlin-ds-lab@wimlds.org__ and describe how you meet the prerequisites. We’ve all had different data science journeys, you can share yours and give us links to relevant examples of previous work. If you prefer, we can also set up a video call instead, where you tell us about your experience in data science. 
+After reading the [program description](README.md), if you wish to take part, please email us at __berlin-ds-lab@wimlds.org__ and describe how you meet the prerequisites. We’ve all had different data science journeys, you can share yours and give us links to relevant examples of previous work. If you prefer, we can also set up a video call instead, where you tell us about your experience in data science. 
 
 __If you’re not sure if you “are good enough” please send us an email anyway. We have been teaching for years and know that most women and minorities students tend to underestimate themselves.__ 
 
