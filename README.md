@@ -101,7 +101,9 @@ Next, very important step: translation from business problem to data science
 ### Business presentation and technical handover
 
 * You will present your results to your "client". Train using language your client can understand and not making it too technical.
+* You will prepare a handover presentation to your client's in-house data scientists. Train writing clear technical communication, which is still business minded. This can be a well documented github repository, jupyter notebook, or a technical presentation.
 * Time to polish your code repository and write everything up nicely. We'll give feedback! 
+* These two steps are important to be able to show your portfolio project for future employers
 
 ## Weekly calls with advisors
 
