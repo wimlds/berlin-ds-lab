@@ -12,11 +12,11 @@ We are currently taking application for a new round of the lab to start in March
 
 You should be available for two 1-hour calls/week over the course of 10 weeks. We will schedule these calls before the lab starts, so that you can plan ahead. 
 
-In addition, you should expect 5-10 hours/week for working on the project (no fixed times, however fits your schedule). (Fair warning: some of our previous participants chose to invest more than 8 hours/week simply because they found the project engaging and wanted to progress further with their ideas.)
+In addition, you should expect 5-10 hours/week for working on the project (no fixed times, however fits your schedule). (Fair warning: some of our previous participants chose to invest more than 10 hours/week simply because they found the project engaging and wanted to progress further with their ideas.)
 
 ## Application process
 
-After reading the [program details](https://github.com/wimlds/berlin-ds-lab/blob/master/README.md), if you wish to take part, please email us at __Berlin-ds-lab@wimlds.org__ and describe how you meet the prerequisites. We’ve all had different data science journeys, you can share yours and give us links to relevant examples of previous work. If you prefer, we can also set up a video call instead, where you tell us about your experience in data science. 
+After reading the [program description](README.md), if you wish to take part, please email us at __Berlin-ds-lab@wimlds.org__ and describe how you meet the prerequisites. We’ve all had different data science journeys, you can share yours and give us links to relevant examples of previous work. If you prefer, we can also set up a video call instead, where you tell us about your experience in data science. 
 
 __If you’re not sure if you “are good enough” please send us an email anyway. We have been teaching for years and know that most women and minorities students tend to underestimate themselves.__ 
 
