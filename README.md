@@ -98,7 +98,7 @@ todo
 
 ## Your mentors
 
-Noa: todo
+Noa is a freelance Data Consultant and Educator. You can find more detailed information on [LinkedIn](https://linkedin.com/in/noatamir) or listen to the [Techpoint Charlie Podcast](https://techpointcharlie.blog/), for example this episode about ["What is the Role of a Data Scientist?"](https://techpointcharlie.blog/2020/04/13/episode-16-what-is-the-role-of-data-scientist/#more-537). 
 
 Kat: todo
 
