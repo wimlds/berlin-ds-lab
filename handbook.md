@@ -20,6 +20,8 @@ There will also be two additional calls aimed at personal growth/team dynamics:
 * Week 3-4: retrospective (focused on team collaboration) 
 * Week 5-6: individual feedback session with your advisor(s)
 
+[Here is an example of the whole timeline.](https://github.com/wimlds/berlin-ds-lab/blob/master/handbook.md)
+
 ## Steps
 
 ### Project introduction / ideation
