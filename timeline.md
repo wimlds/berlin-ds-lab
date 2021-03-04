@@ -1,4 +1,4 @@
-*please note that the following days of thew week and time of days are an example. We have some flexibility and will agree on the exact times with the group*
+*Please note that the following days of the week and time of days are an example. We have some flexibility and will agree on the exact times with the group*
 
 Weekly Topic | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 -------|-------|---------|-----------|----------|--------|----------|--------
