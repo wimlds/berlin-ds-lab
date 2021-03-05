@@ -100,7 +100,7 @@ todo
 
 Noa is a freelance Data Consultant and Educator. You can find more detailed information on [LinkedIn](https://linkedin.com/in/noatamir) or listen to the [Techpoint Charlie Podcast](https://techpointcharlie.blog/), for example this episode about ["What is the Role of a Data Scientist?"](https://techpointcharlie.blog/2020/04/13/episode-16-what-is-the-role-of-data-scientist/#more-537). 
 
-Kat: todo
+Kat (LinkedIn Profile) is a freelance data scientist / computer vision engineer / teacher. Kat holds a PhD in Computer Science from KTH Stockholm and has been working as a data scientist since 2014. Kat has several years of teaching experience, including three years teaching a data science lab course similar to this mentorship at HTW Berlin. 
 
 
 ## I want to apply!
