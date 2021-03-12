@@ -94,7 +94,7 @@ on you/your career/your questions.
 
 ## Cost
 
-todo
+The program costs €30 (to buy your mentors some coffee). Payable on completion, because we want you to know what you’re paying for.
 
 ## Your mentors
 
