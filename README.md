@@ -51,10 +51,9 @@ The weekly 1-hour meetings with your mentors are your chance to check up on
 your progress and plan the next steps in the project. Typically meetings will 
 look like this:
 
-* First 15 minutes - Your team presents the results of the previous week. Train
-giving succinct technical presentations!
-* Remaining 45 minutes - Team and mentors discuss open questions and plan the next week. Bring your
-own ideas for next steps!
+* First 30 minutes - Your team presents the results of the previous week in 10-15 minutes. Train
+giving succinct technical presentations! Then you get feedback from your mentors and discuss open questions together.
+* Remaining 30 minutes - Team and mentors plan the next week. Bring your own ideas for next steps!
 
 In addition to the weekly mentor call, you should also be available for weekly sync meetings with your team.
 
