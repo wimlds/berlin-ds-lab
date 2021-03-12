@@ -93,8 +93,8 @@ Time to polish your code repository and write everything up nicely. We'll give f
 
 ### Technical presentations
 
-* First ~10 minutes: one of you (not the same one every week!) presents your work of the previous week to us
-* Rest: open discussion and plan next week
+* First 30 minutes: one of you (not the same one every week!) presents your work of the previous week to us (10-15 minutes). We give you feedback and discuss open questions together. 
+* Rest: We plan what you will work on for next week
     * We want you to come with your own ideas for next steps, we are just there to give you some guidance on them.
 * Presentation format:
     * free-format: slides, R/jupyter notebooks, tableau, write on whiteboard -- whatever works for you
