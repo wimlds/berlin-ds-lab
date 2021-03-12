@@ -100,7 +100,7 @@ The program costs €30 (to buy your mentors some coffee). Payable on completion
 
 Noa is a freelance Data Consultant and Educator. You can find more detailed information on [LinkedIn](https://linkedin.com/in/noatamir) or listen to the [Techpoint Charlie Podcast](https://techpointcharlie.blog/), for example this episode about ["What is the Role of a Data Scientist?"](https://techpointcharlie.blog/2020/04/13/episode-16-what-is-the-role-of-data-scientist/#more-537). 
 
-Kat (LinkedIn Profile) is a freelance data scientist / computer vision engineer / teacher. Kat holds a PhD in Computer Science from KTH Stockholm and has been working as a data scientist since 2014. Kat has several years of teaching experience, including three years teaching a data science lab course similar to this mentorship at HTW Berlin. 
+Kat ([personal website](https://krasch.io), [LinkedIn](https://www.linkedin.com/in/katharina-rasch-9b5848a0/)) is a freelance data scientist / computer vision engineer / teacher. Kat holds a PhD in Computer Science from KTH Stockholm and has been working as a data scientist since 2014. Kat has several years of teaching experience, including three years teaching a data science lab course similar to this mentorship at HTW Berlin. 
 
 
 ## I want to apply!
