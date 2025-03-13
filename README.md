@@ -104,7 +104,7 @@ Kat ([personal website](https://krasch.io), [LinkedIn](https://www.linkedin.com/
 
 ## I want to apply!
 
-Sounds interesting? [Apply here!](apply.md)
+We are currently not running the lab :-(
 
 ## I want more details
 
